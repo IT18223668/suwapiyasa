@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.login{
+	background-color:;
+}
+.login form{
+	border:2px solid ;
+	background-color:#139284;
+	padding:100px 150px;
+	
+}
+
+.login input{
+	border-radius: 8px;
+}

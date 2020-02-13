@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+#fcontent{
+	background-color: lightblue;
+position: relative;
+left: 0;
+top: 50%;
+width: 100%;
+text-align: center;
+font-size: 18px;
+}
+
+#fcontent a{
+	text-decoration:none;
+	font-family:"Times New Roman";
+	
+}
